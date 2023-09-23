@@ -1,0 +1,47 @@
+.none{
+    margin: 20px;
+    text-align: center;
+    color: tomato; 
+}
+.dotted{
+    border: 2px dotted tomato;
+    margin: 20px;
+    text-align: center;
+    color: tomato;
+}
+.dashed{
+    border: 2px dashed tomato;
+    margin: 20px;
+    text-align: center;
+    color: tomato; 
+}
+.solid{
+    border: 2px solid tomato;
+    margin: 20px;
+    text-align: center; 
+    color: tomato;
+}
+.groove{
+    border: 2px groove tomato;
+    margin: 20px; 
+    text-align: center;
+     color: tomato;
+}
+.ridge{
+    border: 2px ridge tomato;
+    margin: 20px; 
+    text-align: center;
+    color: tomato;
+}
+.inset{
+    border: 2px inset tomato;
+    margin: 20px;
+    text-align: center;
+    color: tomato; 
+}
+.outset{
+    border: 2px inset tomato;
+    margin: 20px;
+    text-align: center;
+    color: tomato;
+}
